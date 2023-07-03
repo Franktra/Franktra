@@ -1,6 +1,6 @@
 👋 Hi, I’m @Franktra!
 
-🧠👀 My background in Speech-Language Pathology has been a catalyst for my foray into the captivating realms of Artificial Intelligence (AI), Natural Language Processing (NLP), and Prompt Engineering (PE). Through years of engagement with marginalized populations, I’ve developed an unwavering commitment to creating AI tools that are innovative, accessible, unbiased, and equitable. My focus is now channeling this dedication into AI to effect positive societal change. 🌍💪
+🧠👀 My background in Speech-Language Pathology has been a catalyst for my foray into the captivating realms of Artificial Intelligence (AI), Natural Language Processing (NLP), and Prompt Engineering (PE). Through years of engagement with marginalized populations, I’ve developed an unwavering commitment to creating AI tools that are innovative, accessible, unbiased, and equitable. My focus is now channeling this dedication into AI to effect positive societal change. 🌍💪🏾
 
 🌱 I am actively delving into NLP methodologies and sharpening my skills in prompt engineering. Concurrently, I am investigating pedagogically innovative approaches to empower individuals in leveraging large language models effectively across diverse applications. 📚💡
 
