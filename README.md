@@ -4,7 +4,9 @@
 
 🌱 I am actively delving into NLP methodologies and sharpening my skills in prompt engineering. Concurrently, I am investigating pedagogically innovative approaches to empower individuals in leveraging large language models effectively across diverse applications. 📚💡
 
-💞️ I am keen to collaborate on AI and NLP projects that have the potential to make a meaningful impact on communities and organizations. My passion encompasses guiding stakeholders in utilizing language models efficiently and fostering a data-driven culture anchored in equity and fairness. Let's join forces and create something amazing together! 🤝🌟
+🌟 Recently, at the Lesbians Who Tech & Allies Conference in October 2023, I had the privilege of presenting "Prompt Engineering: Leveraging Learning and Development with AI and Prompt Engineering." This session, which I designed, explored the intersection of AI, machine learning, and natural language processing. There, I introduced the Action Framework, a methodology I developed, to enhance business, professional, and personal growth through AI applications. I also discussed AI’s benefits in education and customer service, its potential risks, and the importance of ethical considerations.
+
+💞️ I am interested in collaborating on AI and NLP projects that have the potential to make a meaningful impact on communities and organizations. My passion encompasses guiding stakeholders in utilizing language models efficiently and fostering a data-driven culture anchored in equity and fairness. Let's join forces and create something amazing together! 🤝🌟
 
 🔗 Transitioning from Speech-Language Pathology to AI has been an enlightening and rewarding journey. In this realm, my expertise in language can make a substantial contribution to technological innovation and help address biases in AI, ensuring that models are representative and equitable. Constitutional AI and responsible practices are central to my endeavors, as I aspire to usher in AI that serves all segments of society. 🌐🤖
 
